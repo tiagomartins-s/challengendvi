@@ -3,6 +3,8 @@
 Este projeto tem como objetivo prever a produtividade agrícola (milho) utilizando dados históricos de produção e NDVI (Índice de Vegetação por Diferença Normalizada), com foco em análise estatística, identificação de padrões sazonais e aplicação de modelos preditivos de Machine Learning.
 
 ---
+vídeo apresentação
+https://youtu.be/NHcIQdggxC0
 
 ## 🔍 1. Preparação e Tratamento dos Dados
 
